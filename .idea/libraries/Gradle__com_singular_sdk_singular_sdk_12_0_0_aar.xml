@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.singular.sdk:singular_sdk:12.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a2283d417b69ea3f447b092d191bcbc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a2283d417b69ea3f447b092d191bcbc/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a2283d417b69ea3f447b092d191bcbc/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
